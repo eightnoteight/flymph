@@ -97,5 +97,3 @@ def flymph(app):
             return self.application
 
     return WebServiceInterface
-
-

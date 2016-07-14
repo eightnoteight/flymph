@@ -11,6 +11,8 @@ please refer to the `helloworld.tar.gz
 Installation
 ------------
 
+.. code:: bash
+
     pip install flymph  # as flask and lymph are dependencies, this will install both flask and lymph
 
 -------------------
@@ -35,5 +37,3 @@ that's it now the hello world microservice is alive, you can test it with,
 
     curl localhost:6060
     curl localhost:6061
-
-
